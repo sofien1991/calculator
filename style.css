@@ -174,3 +174,11 @@ body {
   grid-row: 2 / span 4;
 }
 
+@media only screen and (max-width: 500px){
+	.calculator__keys > * {
+  
+  padding: 0.5em 0.5em;
+  
+}
+	
+}
